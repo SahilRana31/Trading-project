@@ -37,7 +37,7 @@ Follow these steps to run the TradeX platform on your local machine.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YashPanchalp/TradeX---Stock-Platfrom.git
+git clone https://github.com/SahilRana31/Trading-project.git
 cd TradeX---Stock-Platfrom
 ```
 
